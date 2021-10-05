@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C#-000?&logo=csharp)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -25,17 +26,17 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
 
 ### Full Stack Projects
 
