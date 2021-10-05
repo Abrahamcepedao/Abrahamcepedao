@@ -2,7 +2,7 @@
 
 <div align="center">
 	<h3>Abraham Cepeda Oseguera | Monterrey, Nuevo Leon, Mexico</h3>
-	<h5><i>Computer Science student at Tec de Monterrey (ITESM)</i></h5>
+	<h5><i>Computer Science student at Tec de Monterrey (ITESM) - campus Monterrey</i></h5>
 </div>
 
 ### Languages
