@@ -40,12 +40,12 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-💻%20My%20Website-000)](https://abrahamcepedao.github.io/portfolio/)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://www.mexicovid19.app/)
-[![](https://img.shields.io/badge/-🖥️%20DFutureWebDevelopment-000)](https://dfuture.tk/)
-[![](https://img.shields.io/badge/-📱%20NewsBi-000)](https://www.newsbi.digital/inicio)
-[![](https://img.shields.io/badge/-🥜%20Nutzen-000)](https://nutzen.herokuapp.com/)
-[![](https://img.shields.io/badge/-📚%20ProjectManager-000)](https://project-management-react-5d698.web.app)
+[![](https://img.shields.io/badge/-💻%20My%20Website-000)](https://abrahamcepedao.github.io/portfolio/){:target="_blank"}
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://www.mexicovid19.app/){:target="_blank"}
+[![](https://img.shields.io/badge/-🖥️%20DFutureWebDevelopment-000)](https://dfuture.tk/){:target="_blank"}
+[![](https://img.shields.io/badge/-📱%20NewsBi-000)](https://www.newsbi.digital/inicio){:target="_blank"}
+[![](https://img.shields.io/badge/-🥜%20Nutzen-000)](https://nutzen.herokuapp.com/){:target="_blank"}
+[![](https://img.shields.io/badge/-📚%20ProjectManager-000)](https://project-management-react-5d698.web.app){:target="_blank"}
 
 
 <a href="https://abrahamcepedao.github.io/portfolio/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Abrahamcepedao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamcepedao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
