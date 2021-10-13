@@ -27,6 +27,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
@@ -37,6 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Realm](https://img.shields.io/badge/-Realm-000?&logo=Realm)
 
 ### Projects
 
