@@ -42,7 +42,7 @@
 
 [![](https://img.shields.io/badge/-💻%20My%20Website-000)](https://abrahamcepedao.github.io/portfolio/)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://www.mexicovid19.app/)
-[![](https://img.shields.io/badge/-🖥️%DFutureWebDevelopment-000)](https://dfuture.tk/)
+[![](https://img.shields.io/badge/-🖥️%20DFutureWebDevelopment-000)](https://dfuture.tk/)
 [![](https://img.shields.io/badge/-📱%20NewsBi-000)](https://www.newsbi.digital/inicio)
 [![](https://img.shields.io/badge/-🥜%20Nutzen-000)](https://nutzen.herokuapp.com/)
 [![](https://img.shields.io/badge/-📚%20ProjectManager-000)](https://project-management-react-5d698.web.app)
